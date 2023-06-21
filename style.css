@@ -1,0 +1,49 @@
+/*標頭*/
+body{
+    margin: 0px;
+    background-color: rgba(165, 161, 167, 0.63);
+}
+h1{
+    margin-top: 0px;padding: 10px;
+    font-size: 50px;font-weight: bolder;color: rgb(255, 255, 255);
+    text-align: center;background-color: rgba(122, 151, 190, 0.829);
+}
+
+/*MAIN*/
+  /*menu*/
+.menubox{
+    width: 500px;
+    margin: auto;
+}
+.menubox a{
+    width: 50px;height: 10px;border: 2px solid black;padding: 10px;margin: 10px;
+    text-decoration: none;font-size: 20px;text-align: center;
+    background-color: white;
+}
+.menubox a:hover{
+    background-color: burlywood;
+}
+/*image*/
+.ungly-img{
+    float: left;
+    margin: 0px 10px 10px;
+}
+/*dairy*/
+
+div.dairyW{
+    width: 600px;margin: 10PX;
+    border: 2px solid #ff0000;
+    background-color: rgba(163, 163, 39, 0.507);
+}
+div.dairyW h2{
+    margin:15px;
+    font-size: 20px;color: rgb(68, 204, 238);font-weight: bolder;
+}
+div.dairyW h3{
+    margin: 5PX;
+    font-size: 18px;color: rgb(0, 0, 0);font-weight: bold;
+}
+div.dairyW p{
+    margin: 5px;
+    font-size: 15px;color: black;font-weight: 600;
+}
